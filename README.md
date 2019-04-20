@@ -1,4 +1,4 @@
-# Project-003-Salary
+# Python-2.7-Project-Salary
 
 A company decided to make a raise of 10% to the emplyees with a salary below
 average.
